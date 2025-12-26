@@ -80,4 +80,4 @@ If you find Project Apex useful, please consider giving us a star ⭐ on GitHub!
 
 ---
 
-*Project Apex © 2025 — Made with ❤️ by @[Llucs](https://github.com/Llucs)*
+*Project Apex © 2025 — Made with ❤️ by [@Llucs](https://github.com/Llucs)*
