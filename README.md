@@ -11,6 +11,7 @@
 
 Galaxy AI is here - Bring S-series Galaxy AI and smart One UI optimizations to supported Samsung devices — safely and reversibly.
 
+---
 
 ### *Overview*
 
