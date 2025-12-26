@@ -55,10 +55,11 @@ Project Apex is developed and maintained by **Llucs**.
 
 ### What Project Apex does NOT do
 
-- It does NOT overclock CPU or GPU
-- It does NOT apply aggressive thermal or power hacks
-- It does NOT modify kernel or boot images
-- It does NOT guarantee all Galaxy AI features on all devices
+> [!CAUTION]
+> - It does NOT overclock CPU or GPU
+> - It does NOT apply aggressive thermal or power hacks
+> - It does NOT modify kernel or boot images
+> - It does NOT guarantee all Galaxy AI features on all devices
 
 ---
 
