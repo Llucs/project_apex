@@ -35,7 +35,7 @@ Project Apex is compatible with Samsung devices running One UI 7, but may not fu
 Based on **Aionix** by **Ali** (used with permission).
 Project Apex is developed and maintained by **Llucs**.
 
---
+---
 
 ### *Known bugs*
 
