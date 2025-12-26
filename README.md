@@ -1,5 +1,7 @@
 # Project Apex
 
+![Banner](images/banner.png)
+
 Galaxy AI is here - Adds advanced Galaxy AI from S-series devices and performs advanced optimization
 
 
