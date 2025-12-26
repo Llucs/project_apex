@@ -35,6 +35,6 @@ Credit goes to developer Ali for allowing us to use his Aionix module as a base 
 ### LICENSE
 
 Licensed under the Project Apex Proprietary License.
-See LICENSE file for details.
+See (LICENSE)[https://github.com/Llucs/project_apex/blob/main/LICENSE] file for details.
 
 (If you're wondering why the license isn't open source, the reason is that it includes apps and parts of the S25+ firmware, which are owned by Samsung, and since they're not mine, I can't make the project open source.)
