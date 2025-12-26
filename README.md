@@ -2,16 +2,16 @@
 
 ![Banner](images/banner.png)
 
-Galaxy AI is here - Adds advanced Galaxy AI from S-series devices and performs advanced optimization
+Galaxy AI is here - Bring S-series Galaxy AI and smart One UI optimizations to supported Samsung devices — safely and reversibly.
 
 
 ### *Overview*
 
 Project Apex is a Magisk module inspired by Aionix that adds advanced Galaxy AI from high-end S-series devices and performs advanced optimizations specifically for One UI, the same optimizations as "OneUI Enhancer"
 
-Project Apex doesn't perform aggressive optimizations; it performs stable and reversible optimizations that improve your phone's fluidity without compromising stability.
+Project Apex doesn't perform aggressive optimizations; it performs stable and reversible optimizations that improve your phone's fluidity without compromising stability
 
-This module also enhances the camera using AI, and since the phone pretends to be an S25+, several things are unlocked, such as apps in the Galaxy Store that were previously unavailable.
+The module applies controlled device property overrides to unlock selected S-series features and Galaxy Store availability.
 
 
 ### *Compatibility*
@@ -38,6 +38,14 @@ Credit goes to developer **Ali** for allowing us to use his Aionix module as a b
 • Bixby doesn't listen to your voice; you can only chat via text within the app
 
 • The AOD is a bit buggy, with automatic brightness enabled for some reason and sometimes elements of the AOD shifting slightly to the side
+
+
+### What Project Apex does NOT do
+
+- It does NOT overclock CPU or GPU
+- It does NOT apply aggressive thermal or power hacks
+- It does NOT modify kernel or boot images
+- It does NOT guarantee all Galaxy AI features on all devices
 
 
 ### *LICENSE*
