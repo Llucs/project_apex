@@ -2,6 +2,13 @@
 
 ![Banner](images/banner.png)
 
+![Platform](https://img.shields.io/badge/Platform-Samsung%20One%20UI%207-blue)
+![Magisk](https://img.shields.io/badge/Magisk-Required-red)
+![Galaxy AI](https://img.shields.io/badge/Galaxy%20AI-Unlocked-purple)
+![Optimization](https://img.shields.io/badge/Optimization-Stable%20&%20Reversible-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-Proprietary-lightgrey)
+
 Galaxy AI is here - Bring S-series Galaxy AI and smart One UI optimizations to supported Samsung devices — safely and reversibly.
 
 
