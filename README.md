@@ -7,7 +7,7 @@ Galaxy AI is here - Bring S-series Galaxy AI and smart One UI optimizations to s
 
 ### *Overview*
 
-Project Apex is a Magisk module inspired by Aionix that adds advanced Galaxy AI from high-end S-series devices and performs advanced optimizations specifically for One UI, the same optimizations as "OneUI Enhancer"
+Project Apex is a Magisk module inspired by Aionix that adds advanced Galaxy AI from high-end S-series devices and performs advanced optimizations specifically for One UI, the same optimizations as (OneUI Enhancer)[https://github.com/Llucs/oneui_enhancer]
 
 Project Apex doesn't perform aggressive optimizations; it performs stable and reversible optimizations that improve your phone's fluidity without compromising stability
 
