@@ -13,11 +13,13 @@ Project Apex doesn't perform aggressive optimizations; it performs stable and re
 
 The module applies controlled device property overrides to unlock selected S-series features and Galaxy Store availability.
 
+---
 
 ### *Compatibility*
 
 Project Apex is compatible with Samsung devices running One UI 7, but may not function perfectly on some devices due to incompatibility with advanced features.
 
+---
 
 ### *Installation*
 
@@ -26,11 +28,13 @@ Project Apex is compatible with Samsung devices running One UI 7, but may not fu
 > 2. Flash using Magisk  
 > 3. Enjoy your fast device with advanced Galaxy AI!
 
+---
 
 ### *Credits*
 
 Credit goes to developer **Ali** for allowing us to use his Aionix module as a base for Project Apex, and to me, **Llucs**, for creating Project Apex.
 
+--
 
 ### *Known bugs*
 
@@ -38,6 +42,7 @@ Credit goes to developer **Ali** for allowing us to use his Aionix module as a b
 
 • The AOD is a bit buggy, with automatic brightness enabled for some reason and sometimes elements of the AOD shifting slightly to the side
 
+---
 
 ### What Project Apex does NOT do
 
@@ -46,6 +51,7 @@ Credit goes to developer **Ali** for allowing us to use his Aionix module as a b
 - It does NOT modify kernel or boot images
 - It does NOT guarantee all Galaxy AI features on all devices
 
+---
 
 ### *LICENSE*
 
