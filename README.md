@@ -23,9 +23,7 @@ Project Apex is compatible with Samsung devices running One UI 7, but may not fu
 
 [!TIP]
 >1. Download the latest version from the releases tab
-
 >2. Flash using Magisk
-
 >3. Enjoy your fast device with advanced Galaxy AI!
 
 
