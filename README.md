@@ -32,7 +32,8 @@ Project Apex is compatible with Samsung devices running One UI 7, but may not fu
 
 ### *Credits*
 
-Credit goes to developer **Ali** for allowing us to use his Aionix module as a base for Project Apex, and to me, **Llucs**, for creating Project Apex.
+Based on **Aionix** by **Ali** (used with permission).
+Project Apex is developed and maintained by **Llucs**.
 
 --
 
