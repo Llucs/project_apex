@@ -72,4 +72,12 @@ See [LICENSE](https://github.com/Llucs/project_apex/blob/main/LICENSE) file for 
 
 ---
 
+## Show Your Support
+
+If you find Project Apex useful, please consider giving us a star ⭐ on GitHub! It helps increase visibility and motivates us to continue improving the module.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Llucs/project_apex&type=Date)](https://www.star-history.com/#Llucs/project_apex&Date)
+
+---
+
 *SpeedCool © 2025 — Made with ❤️ by @Llucs*
