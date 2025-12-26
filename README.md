@@ -70,5 +70,6 @@ See [LICENSE](https://github.com/Llucs/project_apex/blob/main/LICENSE) file for 
 
 (If you're wondering why the license isn't open source, the reason is that it includes apps and parts of the S25+ firmware, which are owned by Samsung, and since they're not mine, I can't make the project open source.)
 
+---
 
 *SpeedCool © 2025 — Made with ❤️ by @Llucs*
