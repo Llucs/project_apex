@@ -38,6 +38,17 @@ Project Apex is compatible with Samsung devices running One UI 7, but may not fu
 
 ---
 
+### *Tested devices*
+
+• A155M
+• A156M
+• A155F
+• A245F
+
+(There are probably others that work as well, but they haven't been tested yet.)
+
+---
+
 ### *Credits*
 
 Based on **Aionix** by **Ali** (used with permission).
