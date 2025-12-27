@@ -51,13 +51,28 @@ Project Apex is compatible with Samsung devices running One UI 7, but may not fu
 
 ### *Screenshots*
 
-<p align="center">
-  <img src="images/image1.jpg" width="215" style="border-radius: 10px; margin: 5px;">
-  <img src="images/image2.jpg" width="215" style="border-radius: 10px; margin: 5px;">
-  <img src="images/image3.jpg" width="215" style="border-radius: 10px; margin: 5px;">
-  <img src="images/image4.jpg" width="215" style="border-radius: 10px; margin: 5px;">
-  <img src="images/image5.jpg" width="215" style="border-radius: 10px; margin: 5px;">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/image1.jpg" width="220px" alt="Screen 1">
+      </td>
+      <td align="center">
+        <img src="images/image2.jpg" width="220px" alt="Screen 2">
+      </td>
+      <td align="center">
+        <img src="images/image3.jpg" width="220px" alt="Screen 3">
+      </td>
+      <td align="center">
+        <img src="images/image4.jpg" width="220px" alt="Screen 4">
+      </td>
+      <td align="center">
+        <img src="center">
+        <img src="images/image5.jpg" width="220px" alt="Screen 5">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
