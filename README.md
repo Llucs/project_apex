@@ -51,11 +51,11 @@ Project Apex is compatible with Samsung devices running One UI 7, but may not fu
 
 ### *Images*
 
-![Print](images/image1.png)
-![Print](images/image2.png)
-![Print](images/image3.png)
-![Print](images/image4.png)
-![Print](images/image5.png)
+![Print](images/image1.jpg)
+![Print](images/image2.jpg)
+![Print](images/image3.jpg)
+![Print](images/image4.jpg)
+![Print](images/image5.jpg)
 
 ---
 
