@@ -8,6 +8,7 @@
 ![Optimization](https://img.shields.io/badge/Optimization-Stable%20&%20Reversible-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-Proprietary-lightgrey)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Llucs/project_apex/total.svg)](https://github.com/Llucs/project_apex/releases)
 
 Galaxy AI is here - Bring S-series Galaxy AI and smart One UI optimizations to supported Samsung devices — safely and reversibly.
 
